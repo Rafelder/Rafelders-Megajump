@@ -26,7 +26,7 @@ Do whatever you like to do with that code. You can ignore all licenses (if there
 - `gamemodes/MM.pwn`
 - `pawno/include/Megajump/bfx_oStream.inc`
 - `pawno/include/LanguageNew.inc`
-- `pawn/include/MegajumpO.inc`
+- `pawno/include/MegajumpO.inc`
 
 2) Compile (if possible; otherwise just use the `*.amx`)
 
